@@ -8,7 +8,7 @@
 
 <br>
 
-<p align="center"><strong>Ce repo github recensera le soir du réveillon de Noël, une multitude de pdf et ebook sur beaucoup de sujets autour du développement web et de la programmation, choisi par les abonnés du groupe HTML CSS JAVASCRIPT FR sur Facebook lors d'un sondage.</strong></p>
+<p align="center"><strong>Ce repo github recensera le soir du réveillon de Noël, une multitude de pdf et ebook sur beaucoup de sujets autour du développement web et de la programmation, choisi par les abonnés du groupe <a href="https://www.facebook.com/groups/244265049677953">HTML CSS JAVASCRIPT FR</a> sur Facebook lors d'un sondage.</strong></p>
 
 <p align="center"><strong>Pour en profiter, et activer un rappel 🔔 le jour J, rien de plus simple, mettez une <a href="https://github.com/mrwaks/christmas-dev-gift/subscription">étoile ⭐</a> sur ce repo et suivez moi sur Github.</strong></p>
 
